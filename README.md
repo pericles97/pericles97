@@ -4,12 +4,12 @@
 ## 💼 Perfil Profissional
 
 - 💻 Fullstack Developer .Net | React | React Native
-- 🌱 Apaixonado por Tecnologia
+- 🌱 Dono e criador de conteúdo da página <a href="https://www.instagram.com/cafecomcodigo/" target="_blank">@cafecomcodigo</a>
 - 🎓 Formado em Análise e Desenvolvimento de Sistemas pela Universidade Positivo
 
 ## 🚀 Habilidades
 
-Aqui estão algumas das linguagens de programação e tecnologias que estou familiarizado:
+Aqui estão algumas das linguagens de programação e tecnologias que uso no dia a dia:
 
 ## 👨‍💻 Linguagens: 
 [![My Skills](https://skillicons.dev/icons?i=cs,javascript,ts,)](https://github.com/pericles97)
@@ -28,8 +28,6 @@ Aqui estão algumas das linguagens de programação e tecnologias que estou fami
 
 
 ![pericles97's Stats](https://github-readme-stats.vercel.app/api?username=pericles97&theme=vue-dark&show_icons=true&hide_border=false&count_private=true) <br><br>
-
-![Snake animation](https://github.com/pericles97/pericles97/blob/output/github-contribution-grid-snake.svg)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">

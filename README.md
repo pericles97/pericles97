@@ -3,7 +3,7 @@
 
 ## 💼 Perfil Profissional
 
-- 💻 Fullstack Developer .Net | React | React Native
+- 💻 FullStack Developer .Net | React | React Native
 - ☕ Dono e criador de conteúdo da página <a href="https://www.instagram.com/cafecomcodigo/" target="_blank">@cafecomcodigo</a>
 - 🎓 Formado em Análise e Desenvolvimento de Sistemas pela Universidade Positivo
 

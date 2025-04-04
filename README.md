@@ -12,15 +12,15 @@
 Aqui estão algumas das linguagens de programação e tecnologias que estou familiarizado:
 
 ## 👨‍💻 Linguagens: 
-[![My Skills](https://skillicons.dev/icons?i=java,python,javascript,c,php)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,javascript,ts,)](https://skillicons.dev)
 
 ## 🧰 Frameworks: 
-[![My Skills](https://skillicons.dev/icons?i=react,django)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dotnet,react,nextjs,)](https://skillicons.dev)
 
 ## 🗄️ Bancos de Dados: 
-[![My Skills](https://skillicons.dev/icons?i=mysql,mongo)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgres)](https://skillicons.dev)
 ## ⚙️ Ferramentas:
-[![My Skills](https://skillicons.dev/icons?i=git,github,visualstudio,eclipse)](https://skillicons.dev)<br><br>
+[![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode,git,github,windows,yarn,docker,azure,)](https://skillicons.dev)<br><br>
 
 ## 📫 Contato
 
@@ -29,5 +29,3 @@ Aqui estão algumas das linguagens de programação e tecnologias que estou fami
 [![Twitter Follow](https://img.shields.io/twitter/follow/SeuUsuario?style=social)]({Link}) <br><br>
 
 ![DiasEllen26 GitHub stats](https://github-readme-stats.vercel.app/api?username=DiasEllen26&show_icons=true&theme=dark) <br><br>
-
-Fique à vontade para entrar em contato comigo para discutir colaborações, projetos interessantes ou qualquer outro assunto relacionado à programação. Estou ansioso para ouvir de você! 😊
